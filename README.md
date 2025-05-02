@@ -9,3 +9,5 @@ Cubit and state implementation can be found under CSEN268-S25\lib\pages\book_hom
 Book class is in the model folder
 My home page's implementation can be found in CSEN268-S25\lib\pages\book_home\views under home_page.dart
 Lastly, my driver file in this program is main.dart
+
+If there happens to be any unnecessary or irrelevant files in this repo, it may be because I had Dr Artun's files from L07 as a starting point for this assignment. Apologies for any confusion.
